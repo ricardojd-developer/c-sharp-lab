@@ -1,0 +1,13 @@
+D:\Douglas\CSIS-1175-002-Introduc Program I\RicardoSilvaQuiz1\RicardoSilvaQuiz1\bin\Debug\netcoreapp3.1\RicardoSilvaQuiz1.exe
+D:\Douglas\CSIS-1175-002-Introduc Program I\RicardoSilvaQuiz1\RicardoSilvaQuiz1\bin\Debug\netcoreapp3.1\RicardoSilvaQuiz1.deps.json
+D:\Douglas\CSIS-1175-002-Introduc Program I\RicardoSilvaQuiz1\RicardoSilvaQuiz1\bin\Debug\netcoreapp3.1\RicardoSilvaQuiz1.runtimeconfig.json
+D:\Douglas\CSIS-1175-002-Introduc Program I\RicardoSilvaQuiz1\RicardoSilvaQuiz1\bin\Debug\netcoreapp3.1\RicardoSilvaQuiz1.runtimeconfig.dev.json
+D:\Douglas\CSIS-1175-002-Introduc Program I\RicardoSilvaQuiz1\RicardoSilvaQuiz1\bin\Debug\netcoreapp3.1\RicardoSilvaQuiz1.dll
+D:\Douglas\CSIS-1175-002-Introduc Program I\RicardoSilvaQuiz1\RicardoSilvaQuiz1\bin\Debug\netcoreapp3.1\RicardoSilvaQuiz1.pdb
+D:\Douglas\CSIS-1175-002-Introduc Program I\RicardoSilvaQuiz1\RicardoSilvaQuiz1\obj\Debug\netcoreapp3.1\RicardoSilvaQuiz1.AssemblyInfoInputs.cache
+D:\Douglas\CSIS-1175-002-Introduc Program I\RicardoSilvaQuiz1\RicardoSilvaQuiz1\obj\Debug\netcoreapp3.1\RicardoSilvaQuiz1.AssemblyInfo.cs
+D:\Douglas\CSIS-1175-002-Introduc Program I\RicardoSilvaQuiz1\RicardoSilvaQuiz1\obj\Debug\netcoreapp3.1\RicardoSilvaQuiz1.csproj.CoreCompileInputs.cache
+D:\Douglas\CSIS-1175-002-Introduc Program I\RicardoSilvaQuiz1\RicardoSilvaQuiz1\obj\Debug\netcoreapp3.1\RicardoSilvaQuiz1.dll
+D:\Douglas\CSIS-1175-002-Introduc Program I\RicardoSilvaQuiz1\RicardoSilvaQuiz1\obj\Debug\netcoreapp3.1\RicardoSilvaQuiz1.pdb
+D:\Douglas\CSIS-1175-002-Introduc Program I\RicardoSilvaQuiz1\RicardoSilvaQuiz1\obj\Debug\netcoreapp3.1\RicardoSilvaQuiz1.genruntimeconfig.cache
+D:\Douglas\CSIS-1175-002-Introduc Program I\RicardoSilvaQuiz1\RicardoSilvaQuiz1\obj\Debug\netcoreapp3.1\RicardoSilvaQuiz1.csprojAssemblyReference.cache
